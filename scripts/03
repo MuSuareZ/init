@@ -1,4 +1,4 @@
-USER=bananinha
+USER=$1
 echo ---------------------------------------------------------
 echo Here are the active users before $USER user creation
 cat /etc/passwd | grep '/home/' | awk -F':' '{print $1}'
