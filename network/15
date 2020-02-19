@@ -1,0 +1,2 @@
+# or we can just copy the hosts to Desktop, modify it and then copy it back to etc/
+sudo echo "46.19.122.85 intra.42.fr" >> /etc/hosts

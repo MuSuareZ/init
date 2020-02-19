@@ -1,0 +1,3 @@
+#ps: process status / -a: display info about other users processes as well / -u: display the users names / -x: include processes
+#which do not have a controlling terminal Eg. root
+ps -aux

@@ -1,0 +1,5 @@
+#the first ip to show up. You can see that after that device, the connection
+#goes through the Network Address Translation(NAT) and the time of response
+#for the next device is much bigger than the first ping, which shows the
+#distance from the local network to the outside world.
+10.11.254.254

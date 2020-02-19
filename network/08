@@ -1,0 +1,3 @@
+#first we find the ip address of slash16.org with: host slash16.org
+#then we use: whois <ip address that we found previously>
+AWS (Amazon Web Services)

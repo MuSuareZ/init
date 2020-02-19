@@ -1,0 +1,3 @@
+#On the graphical, you must enter login and password when requested
+#On the SSH, do: ssh <login@ip> then enter password
+#You can check your ip by doing: ip address

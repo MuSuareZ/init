@@ -1,0 +1,11 @@
+USER=bananinha
+echo ---------------------------------------------------------
+echo Here are the active users before $USER user creation
+cat /etc/passwd | grep '/home/' | awk -F':' '{print $1}'
+echo ---------------------------------------------------------
+sudo adduser $USER
+sudo adduser $USER sudo
+echo ---------------------------------------------------------
+echo Here are the active users after $USER user creation
+cat /etc/passwd | grep '/home/' | awk -F':' '{print $1}'
+echo ---------------------------------------------------------

@@ -1,0 +1,2 @@
+#df: display space available and used / -h: humanly understandable size
+df -h

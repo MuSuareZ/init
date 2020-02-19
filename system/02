@@ -1,0 +1,3 @@
+#you can use the command: hostnamectl so you can see if it worked
+#AND also update the /etc/hosts file with the new hostname!
+hostnamectl set-hostname example

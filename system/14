@@ -1,0 +1,2 @@
+#tail: display the last part of a file / -f: causes tail to not stop when end of file
+sudo tail -f /var/log/syslog &

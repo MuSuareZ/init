@@ -1,0 +1,2 @@
+#active internet connections / -rn: routing tables
+netstat -rn | awk '/default/{print $2}' | sed 2d

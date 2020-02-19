@@ -1,0 +1,5 @@
+#the command is: nslookup <ip you found previously>
+Server:		10.51.1.253
+Address:	10.51.1.253#53
+
+10.6.11.10.in-addr.arpa	name = c1r6p10.hive.fi.

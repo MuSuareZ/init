@@ -1,0 +1,2 @@
+#Query = demand for information sent from a user's computer to a DNS server
+nslookup slash16.org 8.8.8.8

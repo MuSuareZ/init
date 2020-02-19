@@ -1,0 +1,2 @@
+#du: display disk usage statistics / -h: human readable output / --max-depth: the size of each folder instead of each file
+sudo du -h --max-depth=1 /var

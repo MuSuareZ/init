@@ -1,0 +1,2 @@
+#check ip adress command on VM
+ssh username@ethernetipaddress
